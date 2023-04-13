@@ -6,7 +6,7 @@
     <img alt="Vue logo" src="https://play-lh.googleusercontent.com/EDhozWhNCLv4mf_lSQxEaOkAYPTwx4Y-R28PQEqnYi-CNxH5aE316KKpulJQU5LXVilZ" />
   </div>
   <center>
-  <p style="width:200px">Banco Nacional de Bolivia SA es un banco e institución financiera boliviana con sede en Sucre, Bolivia. Fundado en 1871, es uno de los bancos más antiguos de Bolivia. También es el segundo banco más grande del país por activos totales.</p>
+  <p style="width:200px" >Banco Nacional de Bolivia SA es un banco e institución financiera boliviana con sede en Sucre, Bolivia. Fundado en 1871, es uno de los bancos más antiguos de Bolivia. También es el segundo banco más grande del país por activos totales.</p>
   </center>
     <div class="center">
       <vs-button
