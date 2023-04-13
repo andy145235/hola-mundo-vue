@@ -4,7 +4,7 @@
     <img alt="Vue logo" src="https://vuejs.org/images/logo.png">
   
   </div>
-</template>
+</template> 
 
 <script>
 
