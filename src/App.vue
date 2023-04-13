@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-  <h2>empresas</h2>
+  <h2>emprfjurhesas</h2>
     <img alt="Vue logo" src="https://vuejs.org/images/logo.png">
   
   </div>
